@@ -1,4 +1,4 @@
-SpringDataRedisCacheSample
+Spring Data Redis Cache Sample
 ==========================
 
 Spring data redis cache sample
