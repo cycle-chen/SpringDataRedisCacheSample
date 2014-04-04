@@ -3,7 +3,7 @@ Spring Data Redis Cache Sample
 
 Spring data redis cache sample
 
-This is an cached method
+This is a cached method on HelloService class
 
 
     @Cacheable(value="cache1", condition="#test.equals(#test)")
